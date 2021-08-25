@@ -1,0 +1,47 @@
+{
+  "name": "sapphirenuker",
+  "version": "1.8.5",
+  "description": "A customizable nuker for Discord servers written in JavaScript.",
+  "main": "main",
+  "scripts": {
+    "test": "console.log('Hello World! This is a test command.')",
+    "start": "node main.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Mattlytical/sapphirenuker.git"
+  },
+  "keywords": [
+    "sapphire",
+    "sapphirenuker",
+    "discord",
+    "nuker",
+    "sapphired",
+    "mattlytical",
+    "discord nuker",
+    "javascript",
+    "js",
+    "nodejs"
+  ],
+  "author": "Mattlytical",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Mattlytical/sapphirenuker/issues"
+  },
+  "homepage": "https://github.com/Mattlytical/sapphirenuker#readme",
+  "engines": {
+    "node": "14.x",
+    "npm": "6.x"
+  },
+  "dependencies": {
+    "child_process": "^1.0.2",
+    "colors": "^1.4.0",
+    "discord.js": "^12.5.3",
+    "discord.js-selfbot": "^12.0.2",
+    "figlet": "^1.5.0",
+    "json": "^11.0.0",
+    "os-utils": "0.0.14",
+    "random": "^3.0.6",
+    "sleep": "^6.3.0"
+  }
+}
