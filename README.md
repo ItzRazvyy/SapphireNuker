@@ -1,2 +1,1 @@
-# SapphireNuker
-Leaked by Razvyy & york & shadow
+Leaked by york & shadow
